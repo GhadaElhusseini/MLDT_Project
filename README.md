@@ -7,11 +7,11 @@ This project analyzes court data related to slavery using Python and machine lea
 
 ## Installation
 
-Option A – Easiest:
+1. Option A – Easiest:
 Go to the project page → https://github.com/GhadaElhusseini/MLDT_Project
 Click Code → Download ZIP, then unzip it on your Desktop.
 
-1. **Clone the repository** - Option B – If you have Git installed:
+2. Option B - **Clone the repository** -  If you have Git installed:
 
 ```bash 
 git clone https://github.com/GhadaElhusseini/MLDT_Project.git 
@@ -45,9 +45,6 @@ The environment includes the following Python packages:
 Built-in Python modules like re and string are already included in Python and do not require installation.
 
 ## Notes
-- Keep your Conda environment updated if you add new packages:
-conda env export > environment_mldt.yml
-- Use MLDT_Data folder for storing datasets. Avoid uploading large or sensitive files to GitHub.
 - If a package is missing, install via Conda: conda install package-name or via pip: pip install package-name." > README.md
 
 
