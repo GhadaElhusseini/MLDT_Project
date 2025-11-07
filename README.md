@@ -1,7 +1,7 @@
 # Slavery_Court Project
 
 ## Description
-This a group project analyzes court data related to slavery using Python and machine learning. It includes data processing, visualization, and predictive modeling.
+This project analyzes court data related to slavery using Python and machine learning. It includes data processing, visualization, and predictive modeling.
 
 ---
 
