@@ -1,23 +1,27 @@
 # Slavery_Court Project
 
 ## Description
-This project analyzes historical court cases related to slavery using Python and machine learning. It includes data processing, visualization, and predictive modeling.
+This project analyzes court data related to slavery using Python and machine learning. It includes data processing, visualization, and predictive modeling.
 
 ---
 
 ## Installation
 
-1. **Clone the repository**
+Option A – Easiest:
+Go to the project page → https://github.com/GhadaElhusseini/MLDT_Project
+Click Code → Download ZIP, then unzip it on your Desktop.
 
-```bash
-git clone https://github.com/YourUsername/Slavery_Court.git
+1. **Clone the repository** - Option B – If you have Git installed:
+
+```bash 
+git clone https://github.com/GhadaElhusseini/MLDT_Project.git 
 cd Slavery_Court
 
 ##
 ## Create the Conda environment
 conda env create -f environment.yml
 
-# Activate the environment
+# Activate the environment -once you activate this environment the code should run smoothely 
 conda activate MLTD
 
 ## How to Run the Project
